@@ -1,1 +1,1 @@
-tcp overview
+Developed a real-time chat application using Python's socket programming to support communication between up to 50 simultaneous clients. Implemented nickname-based identification, enabling personalized user experiences, and message broadcasting to all connected clients. Utilized multi-threading to handle multiple client connections concurrently, ensuring optimal performance even with high traffic. The system was able to handle over 1000 messages per session with minimal latency.
